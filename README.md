@@ -4,5 +4,4 @@ URL: https://github.com/JannethGS2610/SistemaAdmVivento
 
 # Integrantes:
 
-  Lenin Quizhpe
-  Janneth Guamán
+  Lenin Quizhpe -   Janneth Guamán
